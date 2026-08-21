@@ -1,1 +1,1 @@
-# svc.sh
+terminal: sudo ./svc.sh start
