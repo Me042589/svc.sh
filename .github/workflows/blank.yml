@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: lil Wu
+name: Wu
 
 # Controls when the workflow will run
 on:
@@ -30,7 +30,7 @@ jobs:
         run: echo Hello, Wu!
 
       # Runs a set of commands using the runners shell
-      - name: Wu
+      - name: lil Wu
         run: |
           echo Add other actions to build,
           echo test, and deploy.
