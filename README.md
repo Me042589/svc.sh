@@ -1,1 +1,1 @@
-terminal: sudo ./svc.sh start
+terminal: ./runsvc.sh
